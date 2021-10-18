@@ -66,7 +66,7 @@ function App() {
             minRows={5}
             style={{ width: "100%" }}
             value={effect}
-            onChangte={handleEffectChange}
+            onChange={handleEffectChange}
           />
         </Box>
         <Button
