@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/genshin-inazuma-puzzle-resolver/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/genshin-inazuma-puzzle-resolver/static/js/main.a99d06ec.chunk.js",
+    "main.js.map": "/genshin-inazuma-puzzle-resolver/static/js/main.a99d06ec.chunk.js.map",
+    "runtime-main.js": "/genshin-inazuma-puzzle-resolver/static/js/runtime-main.141e419a.js",
+    "runtime-main.js.map": "/genshin-inazuma-puzzle-resolver/static/js/runtime-main.141e419a.js.map",
+    "static/js/2.c27fcfd5.chunk.js": "/genshin-inazuma-puzzle-resolver/static/js/2.c27fcfd5.chunk.js",
+    "static/js/2.c27fcfd5.chunk.js.map": "/genshin-inazuma-puzzle-resolver/static/js/2.c27fcfd5.chunk.js.map",
+    "static/js/3.342e2adc.chunk.js": "/genshin-inazuma-puzzle-resolver/static/js/3.342e2adc.chunk.js",
+    "static/js/3.342e2adc.chunk.js.map": "/genshin-inazuma-puzzle-resolver/static/js/3.342e2adc.chunk.js.map",
+    "index.html": "/genshin-inazuma-puzzle-resolver/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/genshin-inazuma-puzzle-resolver/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.c27fcfd5.chunk.js.LICENSE.txt": "/genshin-inazuma-puzzle-resolver/static/js/2.c27fcfd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.141e419a.js",
+    "static/js/2.c27fcfd5.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.a99d06ec.chunk.js"
+  ]
+}
